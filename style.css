@@ -12,6 +12,12 @@
     margin: 0%; 
     padding: 0%; 
 }  
+  
+.logo { 
+    width: 50px;  
+    border-radius: 30px;  
+    border-style: dotted;
+}
 
 .navbar {
     width: 50%;
