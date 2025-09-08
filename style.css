@@ -1,9 +1,10 @@
 .banner { 
     width: 100%; 
     height: 100vh; 
-    background-image: url(https://cdn.wallpapersafari.com/60/72/GHRgpF.jpg);
-    background-size: cover; 
-    background-position: center;
+    background-image: url(https://wallpapercave.com/wp/wp7453603.jpg);
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
     
 } 
 
@@ -56,7 +57,7 @@
 } 
  
 em { 
-    color: gold; 
+    color:black; 
 } 
 
 button { 
@@ -81,10 +82,11 @@ button {
 .content { 
     margin-right:auto; 
     border-color: aquamarine; 
-    float: left;
+    float: right;
     text-align: center; 
     margin: auto; 
     position: relative; 
+    
 }
 
 
